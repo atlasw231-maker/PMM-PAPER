@@ -2,7 +2,7 @@
 ## Three Deterministic Primitives for Post-Quantum Polynomial Proofs over Binary Fields
 
 **Miko Angelo De La Paz**  
-`delapazmikoangelo@gmail.com`
+delapazmikoangelo@gmail.com
 
 June 2026
 
